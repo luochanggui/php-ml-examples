@@ -12,3 +12,4 @@ humbuglog.*
 /data/bbc
 /model/*
 !/model/.gitkeep
+.idea/
